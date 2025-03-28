@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">Athy Ville</string>
+    <string name="rate_init">rating : %1$s / 5</string>
+    <string name="room_name_init">nama kamar</string>
+    <string name="room_price_init">Rp%1$s,-</string>
+    <string name="facility">fasilitas :</string>
+    <string name="room_facility_init">fasilitasnya di sini…</string>
+    <string name="btn_check">cek di sini</string>
+    <string name="profil">profil</string>
+    <string name="room_init_deskripsi">deskripsi ada di sini. Silakan jelaskan dengan ringkas apa yang ingin disampaikan. Berikan pendapat serta deskripsi mengenai ruangan dan informasi fasilitas yang disediakan. Tujuan dari bagian ini adalah untuk memberitahu calon pembeli bahwa room ini layak untuk disewakan. terima kasih.</string>
+    <string name="room_init_area">%1$s m²</string>
+    <string name="room_init_personil">max : %1$s</string>
+    <string name="my_name">Annisa Intan Nuraini</string>
+    <string name="my_email">annisaintanuraini@gmail.com</string>
+    <string name="room_image">Room Image</string>
+    <string-array name="nama_kamar">
+        <item>Damascena</item>
+        <item>Phalaenopsis</item>
+        <item>Jasmium</item>
+        <item>Nymphaea</item>
+        <item>Lavandula</item>
+        <item>Asteraceae</item>
+        <item>Chrysanthemum</item>
+        <item>Hibiscus</item>
+        <item>Paeonia</item>
+        <item>Papaver</item>
+        <item>Rhododendron</item>
+        <item>Pedilantus</item>
+        <item>Prunus</item>
+    </string-array>
+    <integer-array name="harga_kamar">
+        <item>750000</item>
+        <item>750000</item>
+        <item>750000</item>
+        <item>800000</item>
+        <item>800000</item>
+        <item>900000</item>
+        <item>950000</item>
+        <item>1100000</item>
+        <item>1150000</item>
+        <item>1200000</item>
+        <item>1200000</item>
+        <item>1350000</item>
+        <item>1500000</item>
+    </integer-array>
+    <string-array name="fasilitas_kamar">
+        <item>Kipas, Single Bed, Lemari, Kamar mandi luar, dapur bersama, bantal, guling</item>
+        <item>Kipas, Single Bed, Lemari, Kamar mandi luar, dapur bersama, bantal, guling</item>
+        <item>Kipas, Single Bed, Lemari, Kamar mandi luar, dapur bersama, bantal, guling</item>
+        <item>Kipas, Single Bed, Lemari, Kamar mandi dalam, dapur bersama, bantal, guling</item>
+        <item>Kipas, Single Bed, Lemari, Kamar mandi dalam, dapur bersama, bantal, guling</item>
+        <item>Kipas, Single Bed, Lemari, Kamar mandi dalam, dapur pribadi, bantal, guling</item>
+        <item>Kipas, Single Bed, Lemari, Kamar mandi dalam, dapur pribadi, bantal, Kulkas guling</item>
+        <item>AC, Single Bed, Lemari, Kamar mandi dalam, dapur pribadi, bantal, guling, Kulkas</item>
+        <item>AC, Double Bed, Lemari, Kamar mandi dalam, dapur pribadi, bantal 2, guling 2, Kulkas</item>
+        <item>AC, Double Bed, Lemari, Kamar mandi dalam, dapur pribadi, bantal 2, guling 2, Kulkas</item>
+        <item>AC, Double Bed, Lemari, Kamar mandi dalam, dapur pribadi, bantal 2, guling 2, Kulkas</item>
+        <item>AC, Double Bed, Lemari, Kamar mandi dalam, dapur pribadi, bantal 2, guling 2, Kulkas, mesin cuci</item>
+        <item>AC, Double Bed, Lemari, Kamar mandi dalam, dapur pribadi, bantal 2, guling 2, Kulkas, mesin cuci</item>
+    </string-array>
+    <integer-array name="orang_per_kamar">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+    </integer-array>
+    <integer-array name="luas_kamar">
+        <item>9</item>
+        <item>9</item>
+        <item>9</item>
+        <item>12</item>
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>16</item>
+        <item>20</item>
+        <item>21</item>
+        <item>21</item>
+        <item>42</item>
+        <item>45</item>
+    </integer-array>
+    <string-array name="deskripsi_kamar">
+        <item>Kamar kos ini memiliki luas 9 meter persegi, cukup nyaman untuk kebutuhan istirahat dan aktivitas harian. Dilengkapi dengan kasur, bantal, guling, lemari pakaian, serta kipas angin untuk menjaga kesejukan ruangan. Kamar mandi tersedia di luar dengan fasilitas yang terawat, serta terdapat dapur bersama yang dapat digunakan untuk memasak dan menyiapkan makanan. Lingkungan kos aman, nyaman, dan cocok bagi mahasiswa atau pekerja yang mencari tempat tinggal sederhana namun tetap fungsional.</item>
+        <item>Kamar kos ini memiliki luas 9 meter persegi, cukup nyaman untuk kebutuhan istirahat dan aktivitas harian. Dilengkapi dengan kasur, bantal, guling, lemari pakaian, serta kipas angin untuk menjaga kesejukan ruangan. Kamar mandi tersedia di luar dengan fasilitas yang terawat, serta terdapat dapur bersama yang dapat digunakan untuk memasak dan menyiapkan makanan. Lingkungan kos aman, nyaman, dan cocok bagi mahasiswa atau pekerja yang mencari tempat tinggal sederhana namun tetap fungsional.</item>
+        <item>Kamar kos ini memiliki luas 9 meter persegi, cukup nyaman untuk kebutuhan istirahat dan aktivitas harian. Dilengkapi dengan kasur, bantal, guling, lemari pakaian, serta kipas angin untuk menjaga kesejukan ruangan. Kamar mandi tersedia di luar dengan fasilitas yang terawat, serta terdapat dapur bersama yang dapat digunakan untuk memasak dan menyiapkan makanan. Lingkungan kos aman, nyaman, dan cocok bagi mahasiswa atau pekerja yang mencari tempat tinggal sederhana namun tetap fungsional.</item>
+        <item>Nikmati kenyamanan tinggal di kamar kos dengan luas 12 meter persegi, ideal untuk mahasiswa atau pekerja yang mencari hunian praktis dan nyaman. Kamar ini dilengkapi dengan berbagai fasilitas, termasuk kasur nyaman, bantal dan guling, serta lemari pakaian untuk menyimpan barang dengan rapi. Untuk kenyamanan tambahan, kamar ini sudah dilengkapi dengan kipas angin, memastikan udara tetap sejuk. Selain itu, tersedia kamar mandi dalam, memberikan privasi lebih bagi penghuni. Kos ini juga menyediakan dapur bersama, memungkinkan penghuni untuk memasak dengan lebih leluasa. Dengan fasilitas yang lengkap dan lingkungan yang nyaman, kamar ini menjadi pilihan tepat bagi Anda yang menginginkan hunian praktis dan strategis.</item>
+        <item>Nikmati kenyamanan tinggal di kamar kos dengan luas 12 meter persegi, ideal untuk mahasiswa atau pekerja yang mencari hunian praktis dan nyaman. Kamar ini dilengkapi dengan berbagai fasilitas, termasuk kasur nyaman, bantal dan guling, serta lemari pakaian untuk menyimpan barang dengan rapi. Untuk kenyamanan tambahan, kamar ini sudah dilengkapi dengan kipas angin, memastikan udara tetap sejuk. Selain itu, tersedia kamar mandi dalam, memberikan privasi lebih bagi penghuni. Kos ini juga menyediakan dapur bersama, memungkinkan penghuni untuk memasak dengan lebih leluasa. Dengan fasilitas yang lengkap dan lingkungan yang nyaman, kamar ini menjadi pilihan tepat bagi Anda yang menginginkan hunian praktis dan strategis.</item>
+        <item>Kamar kos nyaman dengan luas 14 meter persegi, cocok untuk mahasiswa atau pekerja yang menginginkan hunian praktis dan lengkap. Dilengkapi dengan kipas angin untuk kenyamanan udara, serta kasur, bantal, dan guling agar tidur lebih nyenyak. Tersedia juga lemari untuk menyimpan pakaian dan barang pribadi. Kamar ini memiliki kamar mandi dalam, sehingga lebih privat dan nyaman digunakan. Selain itu, terdapat dapur pribadi yang memungkinkan penghuni memasak sendiri sesuai kebutuhan. Dengan fasilitas lengkap dan suasana yang nyaman, kamar ini menjadi pilihan ideal bagi yang mencari tempat tinggal praktis dan fungsional.</item>
+        <item>Nikmati kenyamanan tinggal di kamar kos eksklusif dengan luas 16m², ideal untuk Anda yang mencari hunian nyaman dan lengkap. Kamar ini dilengkapi dengan kasur empuk, bantal, dan guling untuk memastikan istirahat yang berkualitas. Fasilitas tambahan meliputi lemari pakaian untuk penyimpanan yang rapi serta kipas angin yang menjaga kesejukan ruangan. Kamar ini juga memiliki kamar mandi dalam untuk kenyamanan dan privasi maksimal. Keunggulan lainnya adalah dapur pribadi, memungkinkan Anda memasak dengan bebas, serta kulkas untuk menyimpan bahan makanan dan minuman favorit Anda. Hunian ini cocok bagi mahasiswa maupun pekerja yang menginginkan kamar dengan fasilitas lengkap dan suasana yang nyaman.</item>
+        <item>Nikmati kenyamanan tinggal di kamar kos eksklusif dengan luas 16m², ideal untuk Anda yang mencari hunian nyaman dan lengkap. Kamar ini dilengkapi dengan kasur empuk, bantal, dan guling untuk memastikan istirahat yang berkualitas. Fasilitas tambahan meliputi lemari pakaian untuk penyimpanan yang rapi serta kipas angin yang menjaga kesejukan ruangan. Kamar ini juga memiliki kamar mandi dalam untuk kenyamanan dan privasi maksimal. Keunggulan lainnya adalah dapur pribadi, memungkinkan Anda memasak dengan bebas, serta kulkas untuk menyimpan bahan makanan dan minuman favorit Anda. Hunian ini cocok bagi mahasiswa maupun pekerja yang menginginkan kamar dengan fasilitas lengkap dan suasana yang nyaman.</item>
+        <item>Nikmati kenyamanan tinggal di kamar kos eksklusif dengan luas 20 meter persegi, dirancang untuk memberikan ruang yang lapang dan fungsional. Kamar ini dilengkapi dengan AC untuk kenyamanan suhu ruangan, serta Double Bed yang nyaman lengkap dengan 2 bantal dan 2 guling untuk kualitas tidur terbaik. Fasilitas lainnya mencakup lemari pakaian yang luas, kamar mandi dalam yang bersih dan modern, serta dapur pribadi yang memungkinkan Anda memasak sendiri dengan lebih leluasa. Untuk menambah kenyamanan, kamar ini juga dilengkapi dengan kulkas pribadi untuk menyimpan bahan makanan dan minuman favorit Anda. Cocok untuk mahasiswa atau pekerja yang mencari hunian nyaman dengan fasilitas lengkap dan privasi maksimal.</item>
+        <item>Nikmati kenyamanan tinggal di kamar kos eksklusif dengan luas 21m², dirancang untuk memberikan ruang yang lapang dan nyaman. Dilengkapi dengan AC untuk kesejukan optimal, serta Double Bed yang nyaman lengkap dengan 2 bantal dan 2 guling, memastikan tidur yang berkualitas. Kamar ini juga memiliki lemari pakaian untuk penyimpanan barang yang rapi, serta kamar mandi dalam untuk privasi lebih. Tidak hanya itu, tersedia dapur pribadi yang memungkinkan Anda memasak sendiri, lengkap dengan kulkas untuk menyimpan bahan makanan dan minuman favorit Anda. Hunian ideal bagi Anda yang menginginkan kenyamanan, privasi, dan fasilitas lengkap dalam satu tempat.</item>
+        <item>Nikmati kenyamanan tinggal di kamar kos eksklusif dengan luas 21m², dirancang untuk memberikan ruang yang lapang dan nyaman. Dilengkapi dengan AC untuk kesejukan optimal, serta Double Bed yang nyaman lengkap dengan 2 bantal dan 2 guling, memastikan tidur yang berkualitas. Kamar ini juga memiliki lemari pakaian untuk penyimpanan barang yang rapi, serta kamar mandi dalam untuk privasi lebih. Tidak hanya itu, tersedia dapur pribadi yang memungkinkan Anda memasak sendiri, lengkap dengan kulkas untuk menyimpan bahan makanan dan minuman favorit Anda. Hunian ideal bagi Anda yang menginginkan kenyamanan, privasi, dan fasilitas lengkap dalam satu tempat.</item>
+        <item>Nikmati kenyamanan tinggal di kamar kos eksklusif dengan luas 42m², dirancang untuk memberikan ruang yang luas dan fasilitas lengkap. Kamar ini dilengkapi dengan AC untuk kesejukan sepanjang hari, Double Bed yang nyaman dengan 2 bantal dan 2 guling, serta lemari pakaian untuk menyimpan barang dengan rapi. Kenyamanan semakin lengkap dengan kamar mandi dalam, memastikan privasi lebih bagi penghuni. Selain itu, tersedia dapur pribadi untuk memasak makanan favorit, serta kulkas untuk menyimpan bahan makanan dan minuman tetap segar. Dengan fasilitas yang lengkap dan ruang yang luas, kamar ini cocok untuk Anda yang mencari hunian nyaman dan praktis.</item>
+        <item>Nikmati kenyamanan tinggal di kamar kos eksklusif dengan luas 45m², dirancang untuk memberikan ruang yang luas dan nyaman. Dilengkapi dengan fasilitas lengkap, termasuk AC untuk menjaga suhu ruangan tetap sejuk, Double Bed yang nyaman dengan 2 bantal dan 2 guling, serta lemari pakaian untuk menyimpan barang dengan rapi. Kamar ini juga memiliki kamar mandi dalam untuk privasi lebih, serta dapur pribadi yang memungkinkan Anda memasak dengan bebas. Sebagai tambahan, tersedia kulkas pribadi untuk menyimpan makanan dan minuman agar tetap segar. Pilihan ideal bagi Anda yang menginginkan hunian nyaman, praktis, dan eksklusif!</item>
+    </string-array>
+    <string-array name="img_kamar">
+        <item>https://asset.olympicfurniture.co.id/NEWS/2023/3/Kamar%20Tidur%20Minimalis%20Japandi.jpg</item>
+        <item>https://asset.olympicfurniture.co.id/NEWS/2023/3/Kamar%20Tidur%20Minimalis%20Japandi.jpg</item>
+        <item>https://asset.olympicfurniture.co.id/NEWS/2023/3/Kamar%20Tidur%20Minimalis%20Japandi.jpg</item>
+        <item>https://assets-a1.kompasiana.com/items/album/2021/07/03/inspirasi-kamar-minimalis-jpg-60dff19206310e0ad61d95b2.jpg</item>
+        <item>https://assets-a1.kompasiana.com/items/album/2021/07/03/inspirasi-kamar-minimalis-jpg-60dff19206310e0ad61d95b2.jpg</item>
+        <item>https://cdn.pixabay.com/photo/2020/11/24/11/36/bedroom-5772286_640.jpg</item>
+        <item>https://asset2.morefurniture.id/NEWS/2024/2/Desain%20Kamar%20Tidur%20Sederhana%20Bernuansa%20Coklat-Putih.jpg</item>
+        <item>https://asset2.morefurniture.id/NEWS/2024/2/Desain%20Kamar%20Tidur%20Sederhana%20Bernuansa%20Coklat-Putih.jpg</item>
+        <item>https://png.pngtree.com/thumb_back/fh260/background/20220311/pngtree-bedroom-guest-room-five-star-hotel-image_990205.jpg</item>
+        <item>https://sunpevece.co.id/uploads/spvc/230908cFs7Q5m40zaMLJpuNqPZUf2XT18RvYlyiEVjnrO9HBGAwSoW6DedbCkthgK3.jpg</item>
+        <item>https://sunpevece.co.id/uploads/spvc/230908cFs7Q5m40zaMLJpuNqPZUf2XT18RvYlyiEVjnrO9HBGAwSoW6DedbCkthgK3.jpg</item>
+        <item>https://asset2.olympicfurniture.co.id/NEWS/2024/2/Interior%20Kamar%20Tidur%20Minimalis%20Divan%20Kayu.jpg</item>
+        <item>https://s3-id-jkt-1.kilatstorage.id/cdn-sleepbuddystore/2023/08/desain-kamar-tidur-seperti-hotel-1.jpg</item>
+    </string-array>
+    <integer-array name="rating_kamar">
+        <item>3</item>
+        <item>4</item>
+        <item>3</item>
+        <item>4</item>
+        <item>4</item>
+        <item>5</item>
+        <item>5</item>
+        <item>4</item>
+        <item>5</item>
+        <item>5</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </integer-array>
+</resources>
